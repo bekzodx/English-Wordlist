@@ -1,2 +1,2 @@
 # English-Wordlist
-English Wordlist 
+English Wordlist with general words
